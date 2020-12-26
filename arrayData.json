@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Rojanie",
+        "Lastname": "Beberino",
+        "Discription": "Likes Music, History and Sci-fi"
+    },
+    {
+        "name": "Jennica",
+        "Lastname": "Beberino",
+        "Discription": "Likes Music, Foods and Animals"
+    },{
+        "name": "Mike",
+        "Lastname": "Chou",
+        "Discription": "Likes Sports, Science and Agriculture"
+    },{
+        "name": "Ian",
+        "Lastname": "Soe",
+        "Discription": "Likes Pastry, Adventure and Travel"
+    }
+]
